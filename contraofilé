@@ -1,0 +1,78 @@
+<div style="width: 100%; height: 100%; position: relative; background: black">
+    <div style="width: 1712px; height: 1009px; left: -136px; top: 71px; position: absolute; background: #E4E3E1"></div>
+    <div style="width: 1712px; height: 77px; left: -4px; top: 0px; position: absolute; background: #FFEFEF"></div>
+    <div style="width: 547px; height: 36px; left: 789px; top: 18px; position: absolute; justify-content: center; align-items: flex-start; gap: 31px; display: inline-flex">
+        <div style="width: 73px; height: 36px; color: black; font-size: 32px; font-family: Lato; font-weight: 300; word-wrap: break-word">Início</div>
+        <div style="width: 140px; height: 31px; color: black; font-size: 32px; font-family: Lato; font-weight: 300; word-wrap: break-word">Sobre nós<br/></div>
+        <div style="width: 125px; height: 36px; color: black; font-size: 32px; font-family: Lato; font-weight: 300; word-wrap: break-word">Cardápio</div>
+        <div style="width: 116px; height: 36px; color: black; font-size: 32px; font-family: Lato; font-weight: 300; word-wrap: break-word">Contato</div>
+    </div>
+    <img style="width: 254px; height: 61px; left: 104px; top: 6px; position: absolute" src="https://via.placeholder.com/254x61" />
+    <img style="width: 1016px; height: 947px; left: 320px; top: 77px; position: absolute" src="https://via.placeholder.com/1016x947" />
+    <div style="height: 398px; left: 104px; top: 275px; position: absolute">
+        <div style="width: 775px; height: 237px; left: 0px; top: 0px; position: absolute"><span style="color: #79B51C; font-size: 86px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Bem vindo ao     </span><span style="color: #F8B85B; font-size: 86px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Contra o</span><span style="color: #79B51C; font-size: 86px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word"> Filé</span></div>
+        <div style="width: 809px; height: 129px; left: 0px; top: 269px; position: absolute; color: black; font-size: 36px; font-family: Lato; font-weight: 300; word-wrap: break-word">Comida vegana deliciosa e acessível, feita com amor e respeito, com ingredientes frescos de produtores locais.</div>
+    </div>
+    <div style="width: 314px; height: 70px; left: 352px; top: 745px; position: absolute">
+        <div style="width: 314px; height: 70px; left: 0px; top: 0px; position: absolute; background: #79B51C; border-radius: 100px"></div>
+        <div style="width: 268px; height: 37px; left: 22px; top: 16px; position: absolute; color: black; font-size: 32px; font-family: Lato; font-weight: 700; text-decoration: underline; word-wrap: break-word">Fazer meu pedido!</div>
+    </div>
+</div>
+<div style="width: 100%; height: 100%; position: relative; background: black">
+    <div style="width: 1712px; height: 1078.50px; left: -136px; top: 0px; position: absolute; background: #E4E3E1"></div>
+    <img style="width: 608px; height: 392px; left: 728px; top: 102px; position: absolute; border-radius: 20px" src="https://via.placeholder.com/608x392" />
+    <div style="left: 104px; top: 24px; position: absolute; color: #79B51C; font-size: 40px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Sobre nós</div>
+    <div style="width: 550px; height: 696px; left: 106px; top: 100px; position: absolute"><span style="color: black; font-size: 24px; font-family: Lato; font-weight: 300; line-height: 41px; word-wrap: break-word">No Contra o Filé, acreditamos que comida vegana deve ser acessível e saborosa, pensada para satisfazer tanto o paladar quanto a consciência. Aqui, cada prato é elaborado com </span><span style="color: #79B51C; font-size: 24px; font-family: Lato; font-weight: 600; line-height: 41px; word-wrap: break-word">ingredientes 100% veganos, frescos e cheios de vida</span><span style="color: black; font-size: 24px; font-family: Lato; font-weight: 300; line-height: 41px; word-wrap: break-word">, selecionados em parceria com produtores locais e orgânicos que compartilham nossos valores de sustentabilidade e respeito ao meio ambiente.<br/><br/>Nosso compromisso é oferecer uma alimentação saudável e acessível,</span><span style="color: #79B51C; font-size: 24px; font-family: Lato; font-weight: 600; line-height: 41px; word-wrap: break-word"> provando que comer bem não precisa pesar no bolso nem no planeta</span><span style="color: black; font-size: 24px; font-family: Lato; font-weight: 300; line-height: 41px; word-wrap: break-word">. O cardápio é pensado para acolher todos os públicos – veganos, vegetarianos, flexitarianos e curiosos –, criando uma experiência gastronômica inclusiva e acolhedora, onde </span><span style="color: #79B51C; font-size: 24px; font-family: Lato; font-weight: 600; line-height: 41px; word-wrap: break-word">todos são bem-vindos para explorar novos sabores</span><span style="color: black; font-size: 24px; font-family: Lato; font-weight: 300; line-height: 41px; word-wrap: break-word"> e escolhas mais conscientes.</span></div>
+    <img style="width: 608px; height: 392px; left: 728px; top: 530px; position: absolute; border-radius: 20px" src="https://via.placeholder.com/608x392" />
+    <img style="width: 214px; height: 114px; left: 110px; top: 838px; position: absolute" src="https://via.placeholder.com/214x114" />
+    <img style="width: 223px; height: 108px; left: 324px; top: 841px; position: absolute" src="https://via.placeholder.com/223x108" />
+</div>
+<div style="width: 100%; height: 100%; position: relative; background: black">
+    <div style="width: 1711px; height: 1080px; left: -136px; top: 0px; position: absolute; background: #E4E3E1"></div>
+    <div style="left: 137px; top: 38px; position: absolute; color: #79B51C; font-size: 40px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Cardápio da Semana</div>
+    <div style="width: 332.36px; left: 561px; top: 166px; position: absolute">
+        <div style="width: 332.36px; height: 620px; left: 0px; top: 0px; position: absolute">
+            <img style="width: 332.36px; height: 330px; left: 0px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/332x330" />
+            <div style="width: 318px; height: 170px; left: 7px; top: 450px; position: absolute; text-align: center; color: black; font-size: 18px; font-family: Cairo; font-weight: 500; word-wrap: break-word">Repolho roxo, tomate, pimentão vermelho, pepino, cebola roxa e azeitonas.       Tamanhos: P, M e G       Valor: R$20,00</div>
+            <div style="width: 213px; height: 33px; left: 60px; top: 399px; position: absolute; color: #79B51C; font-size: 24px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Salada grega</div>
+        </div>
+        <div style="width: 314px; height: 66px; padding-left: 10px; padding-right: 10px; padding-top: 15px; padding-bottom: 15px; left: 9px; top: 644px; position: absolute; background: #F8B85B; border-radius: 20px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="color: black; font-size: 24px; font-family: Bochan Serif; font-weight: 400; text-decoration: underline; word-wrap: break-word">pedir no whatsapp</div>
+        </div>
+    </div>
+    <div style="width: 352px; left: 143px; top: 166px; position: absolute">
+        <div style="width: 352px; height: 614px; left: 0px; top: 0px; position: absolute">
+            <img style="width: 352px; height: 330px; left: 0px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/352x330" />
+            <div style="width: 315px; height: 29px; left: 19px; top: 399px; position: absolute; color: #79B51C; font-size: 24px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Bowl vida saudável</div>
+            <div style="width: 318px; height: 170px; left: 17px; top: 444px; position: absolute; text-align: center; color: black; font-size: 18px; font-family: Cairo; font-weight: 500; word-wrap: break-word">Arroz com açafrão, kibe de soja e brócolis cozido no vapor.       Tamanhos: P, M e G<br/>Valor: R$22,00</div>
+        </div>
+        <div style="width: 314px; height: 66px; padding-left: 10px; padding-right: 10px; padding-top: 15px; padding-bottom: 15px; left: 19px; top: 644px; position: absolute; background: #F8B85B; border-radius: 20px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="color: black; font-size: 24px; font-family: Bochan Serif; font-weight: 400; text-decoration: underline; word-wrap: break-word">pedir no whatsapp</div>
+        </div>
+    </div>
+    <div style="width: 332px; left: 959px; top: 166px; position: absolute">
+        <div style="width: 332px; height: 620px; left: 0px; top: 0px; position: absolute">
+            <img style="width: 332px; height: 330px; left: 0px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/332x330" />
+            <div style="width: 318px; height: 170px; left: 7px; top: 450px; position: absolute; text-align: center; color: black; font-size: 18px; font-family: Cairo; font-weight: 500; word-wrap: break-word">Grão de bico refogado, vagem, brócolis, semente de abóbora e abacate.       Tamanhos: P, M e G       Valor: R$25,00</div>
+            <div style="width: 270px; height: 33px; left: 31px; top: 399px; position: absolute; color: #79B51C; font-size: 24px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Mix Contra o Filé</div>
+        </div>
+        <div style="width: 314px; height: 66px; padding-left: 10px; padding-right: 10px; padding-top: 15px; padding-bottom: 15px; left: 9px; top: 644px; position: absolute; background: #F8B85B; border-radius: 20px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="color: black; font-size: 24px; font-family: Bochan Serif; font-weight: 400; text-decoration: underline; word-wrap: break-word">pedir no whatsapp</div>
+        </div>
+    </div>
+</div>
+<div style="width: 100%; height: 100%; position: relative; background: black">
+    <div style="width: 1712px; height: 1092px; left: -136px; top: -12px; position: absolute; background: #E4E3E1"></div>
+    <div style="width: 177px; height: 45px; left: 723px; top: 490px; position: absolute; color: #79B51C; font-size: 32px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Contato:</div>
+    <div style="width: 282px; height: 43px; left: 720px; top: 320px; position: absolute; color: #79B51C; font-size: 32px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Localização:</div>
+    <div style="width: 734px; height: 68px; left: 723px; top: 156px; position: absolute; color: #79B51C; font-size: 32px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Horário de funcionamento:</div>
+    <div style="width: 667px; height: 115px; left: 723px; top: 224px; position: absolute; color: black; font-size: 24px; font-family: Lato; font-weight: 400; word-wrap: break-word">Segunda à sábado: das 11h00 às 15h00   Domingos: fechados.</div>
+    <div style="width: 562px; height: 101px; left: 720px; top: 389px; position: absolute; color: black; font-size: 24px; font-family: Lato; font-weight: 400; word-wrap: break-word">Rua Alfredo Lopes, 1717 - Jardim Macarengo - São Carlos/SP - 13560-460</div>
+    <div style="width: 667px; height: 114px; left: 723px; top: 554px; position: absolute; color: black; font-size: 24px; font-family: Lato; font-weight: 400; word-wrap: break-word">(16) 98765-1234 - whatsapp e ligações</div>
+    <img style="width: 482px; height: 475px; left: 159px; top: 238px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/482x475" />
+    <img style="width: 164px; height: 157px; left: 486px; top: 232px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/164x157" />
+    <img style="width: 186px; height: 186px; left: 508px; top: 410px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/186x186" />
+    <img style="width: 176px; height: 176px; left: 431px; top: 616px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/176x176" />
+    <div style="width: 562px; height: 58px; left: 720px; top: 635px; position: absolute"><span style="color: black; font-size: 20px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Também aceitamos pedidos via iFood, pesquise por </span><span style="color: #F8B85B; font-size: 20px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word">Contra o Filé</span><span style="color: black; font-size: 20px; font-family: Bochan Serif; font-weight: 400; word-wrap: break-word"> e peça já!</span></div>
+    <img style="width: 404px; height: 246px; left: 754px; top: 743px; position: absolute" src="https://via.placeholder.com/404x246" />
+</div>
